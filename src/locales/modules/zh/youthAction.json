@@ -1,0 +1,28 @@
+{
+  "youthAction": {
+    "eyebrow": "行动",
+    "title": "青少年湿地研究行动",
+    "subtitle": "从入门项目到国际合作研究，平台为青少年提供循序渐进的研究路径、知识工具与导师连接。",
+    "cards": [
+      {
+        "badge": "初级项目",
+        "title": "迈出第一步：观测、记录与识别",
+        "body": "你可以从“水质侦探”“湿地植物识别”“微塑料调查入门套件”开始，通过简单采样、记录和分析建立研究基础。",
+        "primaryCta": "了解项目",
+        "primaryRoute": "/projects/starter",
+        "secondaryCta": "下载指南",
+        "tone": "mint",
+        "imageKey": "youthStarterObservation"
+      },
+      {
+        "badge": "高级与合作",
+        "title": "进阶研究：从生物多样性到遥感分析",
+        "body": "高级项目涵盖生物多样性评估、湿地土壤碳储量、城市湿地健康监测；专家合作项目包括遥感分析、DNA 条形码与国际比较研究。",
+        "primaryCta": "开始研究",
+        "secondaryCta": "查看级别",
+        "tone": "navy",
+        "imageKey": "youthAdvancedResearch"
+      }
+    ]
+  }
+}

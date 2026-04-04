@@ -1,0 +1,51 @@
+{
+  "footer": {
+    "about": "An open collaboration network for global youth—science, education, and action for wetlands.",
+    "contactTitle": "Contact",
+    "email": "hello{at}wetland-youth.org",
+    "location": "Shanghai, China",
+    "newsletterLabel": "Subscribe",
+    "newsletterPlaceholder": "Enter your email",
+    "columns": [
+      {
+        "title": "Resources",
+        "links": [
+          "Open data",
+          "Method guides",
+          "Ethics & safety"
+        ]
+      },
+      {
+        "title": "Projects",
+        "links": [
+          "Active research",
+          "Outputs",
+          "Funding"
+        ]
+      },
+      {
+        "title": "Community",
+        "links": [
+          "Forum",
+          "Volunteers",
+          "Partners"
+        ]
+      }
+    ],
+    "social": [
+      {
+        "label": "WeChat",
+        "href": "#"
+      },
+      {
+        "label": "Weibo",
+        "href": "#"
+      },
+      {
+        "label": "GitHub",
+        "href": "#"
+      }
+    ],
+    "copyright": "Global Youth Wetland Research Platform. All rights reserved."
+  }
+}

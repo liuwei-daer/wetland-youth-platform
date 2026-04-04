@@ -1,0 +1,25 @@
+{
+  "name": "wetland-youth-platform",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "build:zip": "pnpm build && bestzip wetland-dist.zip wetland-dist",
+    "preview": "vite preview",
+    "images:webp": "node scripts/convert-images-to-webp.mjs",
+    "i18n:split": "node scripts/split-i18n.mjs"
+  },
+  "dependencies": {
+    "vue": "^3.5.13",
+    "vue-i18n": "^9.14.2",
+    "vue-router": "^4.6.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "bestzip": "^2.2.2",
+    "sharp": "^0.34.5",
+    "vite": "^6.2.0"
+  }
+}

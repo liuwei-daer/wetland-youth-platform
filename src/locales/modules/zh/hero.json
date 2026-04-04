@@ -1,0 +1,28 @@
+{
+  "hero": {
+    "eyebrow": "Connecting Teen Minds to Wetland Science",
+    "title": "欢迎来到全球青年湿地研究平台 — 链接青少年思维与湿地科学",
+    "body": "湿地是水与陆地相遇并共同维持可持续性的地方。这里汇集全球湿地知识、研究项目、导师资源与行动机会，帮助青少年从理解湿地出发，走向真实的科学探索。",
+    "primaryCta": "开始探索",
+    "secondaryCta": "探索项目",
+    "insightLabel": "平台洞察",
+    "stats": [
+      {
+        "value": "22%",
+        "label": "自 1970 年以来全球消失的湿地比例"
+      },
+      {
+        "value": "1.21B ha",
+        "label": "全球湿地总面积"
+      },
+      {
+        "value": "200+",
+        "label": "每年发现的淡水新物种"
+      },
+      {
+        "value": "3%",
+        "label": "泥炭地占陆地面积却储存双倍森林碳"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "youthAction": {
+    "eyebrow": "Action",
+    "title": "Youth wetland research in action",
+    "subtitle": "From starter projects to international collaboration—pathways, tools, and mentors.",
+    "cards": [
+      {
+        "badge": "Starter",
+        "title": "Take the first step: observe, record, identify",
+        "body": "Begin with “water detectives,” wetland plant ID, or a microplastic starter kit—simple sampling, logging, and analysis to build research habits.",
+        "primaryCta": "View projects",
+        "primaryRoute": "/projects/starter",
+        "secondaryCta": "Download guide",
+        "tone": "mint",
+        "imageKey": "youthStarterObservation"
+      },
+      {
+        "badge": "Advanced & collaboration",
+        "title": "Advanced research: from biodiversity to remote sensing",
+        "body": "Advanced tracks cover biodiversity assessment, soil carbon, urban wetland health; expert tracks include remote sensing, DNA barcoding, and international comparisons.",
+        "primaryCta": "Start research",
+        "secondaryCta": "See levels",
+        "tone": "navy",
+        "imageKey": "youthAdvancedResearch"
+      }
+    ]
+  }
+}

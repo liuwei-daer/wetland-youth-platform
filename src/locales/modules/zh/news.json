@@ -1,0 +1,28 @@
+{
+  "news": {
+    "eyebrow": "资讯",
+    "title": "最新资讯",
+    "more": "查看全部",
+    "read": "阅读全文",
+    "items": [
+      {
+        "tag": "Field",
+        "title": "从校园到湿地：青少年如何设计第一项实地调查",
+        "excerpt": "围绕观察、记录与样本管理，建立可执行的入门研究流程。",
+        "imageKey": "newsCampusFieldStudy"
+      },
+      {
+        "tag": "Biodiversity",
+        "title": "候鸟停歇地为何如此重要：理解湿地中的全球连接",
+        "excerpt": "从东亚—澳大利西亚迁飞路线理解湿地在全球生态中的角色。",
+        "imageKey": "newsFlywayWetlands"
+      },
+      {
+        "tag": "Climate",
+        "title": "泥炭地与碳储量：一片湿地为何影响气候未来",
+        "excerpt": "解析泥炭地在储碳、释水与气候调节中的独特作用。",
+        "imageKey": "newsPeatlandCarbon"
+      }
+    ]
+  }
+}

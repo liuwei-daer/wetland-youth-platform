@@ -1,0 +1,30 @@
+{
+  "splits": {
+    "blocks": [
+      {
+        "eyebrow": "Global view",
+        "title": "Wetlands—the kidneys of the planet",
+        "body": "Wetlands include mangroves, peatlands, rivers, lakes, deltas, seagrass beds, and coral reefs across climates and continents. Protecting and restoring them is central to a net-zero, nature-positive future.",
+        "primaryCta": "Learn more",
+        "imageKey": "globalWetlands"
+      },
+      {
+        "eyebrow": "Research map",
+        "title": "Explore world wetlands from your screen",
+        "body": "Major wetland areas cluster in high latitudes and tropical forests. Asia holds about 31.8% of global wetland area, North America about 27.1%. China’s wetlands total roughly 56.35 million hectares—first in Asia.",
+        "primaryCta": "View distribution",
+        "primaryRoute": "/maps/wetland-distribution",
+        "secondaryCta": "Related videos",
+        "imageKey": "exploreScreen",
+        "reverse": true
+      },
+      {
+        "eyebrow": "Local story",
+        "title": "Wetlands around me: Shanghai’s wetland mosaic",
+        "body": "Shanghai has 13 wetland areas totaling about 6,335 km²; nearly half of the land area connects to wetlands. Chongming Dongtan, Jiuduansha, and Dianshanhu form a ladder from internationally important sites to urban nature.",
+        "primaryCta": "Browse cases",
+        "imageKey": "shanghaiWetlands"
+      }
+    ]
+  }
+}

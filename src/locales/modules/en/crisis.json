@@ -1,0 +1,25 @@
+{
+  "crisis": {
+    "eyebrow": "Crisis",
+    "title": "The wetland crisis cannot wait",
+    "lead": "Wetlands are disappearing faster than many forests. Key figures show why protection and restoration are urgent.",
+    "stats": [
+      {
+        "value": "35%",
+        "label": "Long-term loss of natural wetlands"
+      },
+      {
+        "value": "40%+",
+        "label": "Share of wetland species that are threatened"
+      },
+      {
+        "value": "1B+",
+        "label": "People who depend on wetlands for livelihoods"
+      },
+      {
+        "value": "30%",
+        "label": "Terrestrial carbon stored in wetland systems"
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "aboutUs": {
+    "metaTitle": "About us — Youth Wetland Research Platform",
+    "back": "Back to home",
+    "eyebrow": "Organization",
+    "title": "About Us",
+    "lead": "A global research platform for high school students passionate about wetland conservation, ecosystem science, and environmental innovation.",
+    "introTitle": "Who we are",
+    "introBody": "Youth Wetland Research Network is the first global research platform for high school students passionate about wetland conservation, ecosystem science, and environmental innovation. We are dedicated to protecting and restoring wetlands for their environmental value as well as for the services they provide to people. We work through our network of young researchers, mentors, and changemakers to achieve our goals.",
+    "whatMakesTitle": "What makes us, us?",
+    "visionTitle": "Our Vision",
+    "visionBody": "To build a world led by global youth, where wetlands are treasured and nurtured for their beauty, the life they support, and the resources they provide.",
+    "missionTitle": "Our Mission",
+    "missionBody": "To inspire and mobilize global youth to safeguard and restore wetlands for people and nature through research and innovative action.",
+    "valuesTitle": "Our Core Values",
+    "values": [
+      {
+        "title": "Accessibility",
+        "body": "Making complex wetland science approachable and engaging"
+      },
+      {
+        "title": "Innovation",
+        "body": "Leveraging AI and technology to enhance research capabilities"
+      },
+      {
+        "title": "Collaboration",
+        "body": "Building global connections between students, scientists, and communities"
+      },
+      {
+        "title": "Impact",
+        "body": "Ensuring every project contributes to real-world understanding and protection"
+      }
+    ],
+    "storyTitle": "Our Story",
+    "storyBody": "Youth Wetland Research Network was founded in 2024 to bridge the gap between academic wetland science and high school education. We believe that meaningful environmental research shouldn't wait until college—and that teenagers everywhere deserve the tools, mentorship, and platform to contribute to global conservation efforts.",
+    "founderTitle": "The founder Says:",
+    "founderParagraphs": [
+      "My name is Sun Luhan, born in 2008 on Chongming Island, Shanghai. Growing up amidst the breath and tides of the wetlands, I have personally witnessed their changes and the challenges they face. I often wondered: why must understanding and protecting this cradle of life wait until adulthood?",
+      "Wetlands will not wait, and action should begin in youth.",
+      "In 2024, I founded the Youth Wetland Research Network. We are committed to breaking down the barriers between academic research and secondary education, providing young people worldwide with professional tools, mentorship, and an international platform, empowering the younger generation to genuinely engage in the forefront of wetland research and conservation.",
+      "We believe that science should not just be knowledge in textbooks but a tool for everyone to change the world. Starting from Chongming, connecting the world—we are here, waiting for every one of you who loves nature and is willing to speak up for wetlands.",
+      "Youth Wetland Research Network—where research begins in youth, and conservation becomes a shared mission."
+    ],
+    "contactTitle": "Contact us",
+    "phoneLabel": "Phone",
+    "phone": "(0086) 13916682248",
+    "emailLabel": "Email",
+    "email": "slhmavis{'@'}youthwetlands.org",
+    "poBoxLabel": "P.O. Box",
+    "poBox": "201315",
+    "addressLabel": "Address",
+    "address": "333 Shenqi Road, Pudong New Area, Shanghai",
+    "postalCodeLabel": "Postal code",
+    "postalCode": "201315",
+    "ctaHome": "Back to home",
+    "ctaContact": "Contact & newsletter"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "splits": {
+    "blocks": [
+      {
+        "eyebrow": "全球视野",
+        "title": "湿地——地球之肾",
+        "body": "湿地包括红树林、泥炭地、河流、湖泊、三角洲、海草床与珊瑚礁，遍布各大洲与各种气候带。保护与修复湿地，是面向净零未来与自然友好社会的关键路径。",
+        "primaryCta": "了解更多",
+        "imageKey": "globalWetlands"
+      },
+      {
+        "eyebrow": "研究地图",
+        "title": "从您的屏幕探索世界湿地",
+        "body": "全球湿地主要分布在高纬度地区与热带雨林区。亚洲占全球湿地面积约 31.8%，北美约 27.1%。中国湿地总面积约 5635 万公顷，居亚洲第一。",
+        "primaryCta": "查看分布",
+        "primaryRoute": "/maps/wetland-distribution",
+        "secondaryCta": "相关视频",
+        "imageKey": "exploreScreen",
+        "reverse": true
+      },
+      {
+        "eyebrow": "本地案例",
+        "title": "我身边的湿地：上海湿地分布",
+        "body": "上海拥有 13 处湿地，总面积约 6335 平方公里，近半数陆域与湿地相关。崇明东滩、九段沙、淀山湖等构成了从国际重要湿地到市民后花园的完整生态层级。",
+        "primaryCta": "浏览案例",
+        "imageKey": "shanghaiWetlands"
+      }
+    ]
+  }
+}

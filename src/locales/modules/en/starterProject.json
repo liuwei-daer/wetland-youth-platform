@@ -1,0 +1,34 @@
+{
+  "starterProject": {
+    "metaTitle": "Starter projects — Youth Wetland Research Platform",
+    "back": "Back to home",
+    "eyebrow": "Starter",
+    "title": "Take the first step: observe, record, identify",
+    "lead": "These starter modules help you build field observation, logging, and basic analysis habits—no complex lab gear required.",
+    "introTitle": "Why starter projects",
+    "introBody": "Start from nearby water and plants, build scientific curiosity, and lay the groundwork for advanced research. Mix and match modules to match your interests and access.",
+    "modulesTitle": "Modules you can choose",
+    "modules": [
+      {
+        "title": "Water detectives",
+        "body": "Use simple test strips and a Secchi disk to log pH, dissolved oxygen, and turbidity—compare sites and seasons."
+      },
+      {
+        "title": "Wetland plant ID",
+        "body": "Combine field guides with photo ID to build plot records—note dominants, invasives, and indicator species."
+      },
+      {
+        "title": "Microplastics starter",
+        "body": "Collect surface water along the shoreline, sieve and weigh fractions, and trace likely pollution pathways."
+      }
+    ],
+    "stepsTitle": "Suggested workflow",
+    "steps": [
+      "Read safety and ethics guidance; work in the field with an adult volunteer or teacher.",
+      "Keep sampling times and transects consistent; use the same log sheet for comparable data.",
+      "Photo-archive and back up raw data so you can share with mentors or your community later."
+    ],
+    "ctaHome": "Back to home",
+    "ctaContact": "Contact & newsletter"
+  }
+}

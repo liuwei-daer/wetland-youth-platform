@@ -1,0 +1,27 @@
+{
+  "mentors": {
+    "eyebrow": "Mentors",
+    "title": "Learn from leading wetland scientists",
+    "subtitle": "Research leaders across institutions",
+    "items": [
+      {
+        "initial": "J",
+        "name": "Jiang Ming",
+        "role": "Northeast Institute of Geography and Agroecology, CAS",
+        "bio": "Focuses on wetland soil processes, ecological restoration, and conservation technology; leads large-scale marsh surveys with 200+ publications."
+      },
+      {
+        "initial": "W",
+        "name": "Wu Haitao",
+        "role": "Shenyang Institute of Ecology, CAS",
+        "bio": "Wetland and restoration ecology—advancing ecological resilience and functional optimization."
+      },
+      {
+        "initial": "L",
+        "name": "Liang Zhongyao",
+        "role": "Xiamen University, Coastal Wetland Ecosystem Key Laboratory",
+        "bio": "Environmental data science, limnology, and carbon fluxes across air–water interfaces; machine learning for pollutant forecasting."
+      }
+    ]
+  }
+}

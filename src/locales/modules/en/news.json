@@ -1,0 +1,28 @@
+{
+  "news": {
+    "eyebrow": "News",
+    "title": "Latest news",
+    "more": "View all",
+    "read": "Read more",
+    "items": [
+      {
+        "tag": "Field",
+        "title": "From campus to wetland: designing your first field study",
+        "excerpt": "Observation, logging, and sample handling—an actionable workflow for beginners.",
+        "imageKey": "newsCampusFieldStudy"
+      },
+      {
+        "tag": "Biodiversity",
+        "title": "Why stopover sites matter: wetlands as global connectors",
+        "excerpt": "Understanding the East Asian–Australasian Flyway and wetlands’ global role.",
+        "imageKey": "newsFlywayWetlands"
+      },
+      {
+        "tag": "Climate",
+        "title": "Peatlands and carbon stocks: why one wetland shapes the climate future",
+        "excerpt": "How peatlands store carbon, regulate water, and stabilize climate.",
+        "imageKey": "newsPeatlandCarbon"
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "visitorCounter": {
+    "label": "Visits",
+    "loading": "…",
+    "aria": "Cumulative site visits"
+  }
+}

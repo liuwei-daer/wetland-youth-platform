@@ -1,0 +1,28 @@
+{
+  "hero": {
+    "eyebrow": "Connecting Teen Minds to Wetland Science",
+    "title": "Welcome to the Global Youth Wetland Research Platform — Linking young minds to wetland science",
+    "body": "Wetlands are where water meets land and sustain life together. This platform gathers global wetland knowledge, research projects, mentor resources, and opportunities for action—helping youth move from understanding wetlands to real scientific exploration.",
+    "primaryCta": "Start Exploring",
+    "secondaryCta": "Explore projects",
+    "insightLabel": "Platform insights",
+    "stats": [
+      {
+        "value": "22%",
+        "label": "Share of global wetlands lost since 1970"
+      },
+      {
+        "value": "1.21B ha",
+        "label": "Total global wetland area"
+      },
+      {
+        "value": "200+",
+        "label": "New freshwater species described each year"
+      },
+      {
+        "value": "3%",
+        "label": "Peatlands as share of land—yet they store twice as much carbon as forests"
+      }
+    ]
+  }
+}

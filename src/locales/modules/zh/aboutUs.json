@@ -1,0 +1,58 @@
+{
+  "aboutUs": {
+    "metaTitle": "关于我们 — 青年湿地研究平台",
+    "back": "返回首页",
+    "eyebrow": "组织介绍",
+    "title": "关于我们",
+    "lead": "首个面向热衷湿地保护、生态系统科学与环境创新的高中生的全球性研究平台。",
+    "introTitle": "我们是谁",
+    "introBody": "Youth Wetland Research Network 是首个为热衷于湿地保护、生态系统科学和环境创新的高中生打造的全球性研究平台。我们致力于保护和恢复湿地，以保护它们的环境价值以及它们为人们提供的服务。我们通过由青年研究者、导师和变革者组成的社群来实现我们的目标。",
+    "whatMakesTitle": "是什么造就了我们？",
+    "visionTitle": "我们的愿景",
+    "visionBody": "致力于构建一个由全球青年引领的世界，在那里，湿地因其美丽、所承载的生命及所提供的资源而得到珍视与滋养。",
+    "missionTitle": "我们的使命",
+    "missionBody": "激励和动员全球青年，通过研究与创新行动，为人类与自然守护和修复湿地。",
+    "valuesTitle": "我们的核心价值观",
+    "values": [
+      {
+        "title": "可及性",
+        "body": "让复杂的湿地科学变得易于理解和参与"
+      },
+      {
+        "title": "创新",
+        "body": "利用人工智能和技术增强研究能力"
+      },
+      {
+        "title": "协作",
+        "body": "在学生、科学家和社区之间建立全球联系"
+      },
+      {
+        "title": "影响力",
+        "body": "确保每个项目都能促进对现实世界的理解和保护"
+      }
+    ],
+    "storyTitle": "我们的故事",
+    "storyBody": "Youth Wetland Research Network 成立于 2024 年，旨在弥合学术湿地科学与高中教育之间的鸿沟。我们相信，有意义的环境研究不应等到大学才开始——全球的青少年都应获得工具、指导和平台，为全球湿地保护事业贡献力量。",
+    "founderTitle": "创始人说",
+    "founderParagraphs": [
+      "我叫孙璐涵，2008 年出生于上海崇明岛。在湿地的气息与潮汐间成长，我亲身见证了湿地的变化与它们面临的挑战。我常想：为什么认识与保护这座生命的摇篮非要等到成年之后？",
+      "湿地不会等待，行动应当从青年开始。",
+      "2024 年，我创立了 Youth Wetland Research Network。我们致力于打破学术研究与中学教育之间的壁垒，为全球青少年提供专业的工具、导师与国际平台，赋能年轻一代真正参与湿地研究与保护的前沿。",
+      "我们相信，科学不应只是课本里的知识，而是每个人都能用来改变世界的工具。从崇明出发，连结世界——我们在这里，等待每一位热爱自然、愿意为湿地发声的你。",
+      "Youth Wetland Research Network——研究从青年开始，保护成为共同使命。"
+    ],
+    "contactTitle": "联系我们",
+    "phoneLabel": "电话号码",
+    "phone": "（0086）13916682248",
+    "emailLabel": "电子邮件",
+    "email": "slhmavis{'@'}youthwetlands.org",
+    "poBoxLabel": "邮政信箱",
+    "poBox": "201315",
+    "addressLabel": "英文地址",
+    "address": "333 Shenqi Road, Pudong New Area, Shanghai",
+    "postalCodeLabel": "邮政编码",
+    "postalCode": "201315",
+    "ctaHome": "返回首页",
+    "ctaContact": "联系与订阅"
+  }
+}

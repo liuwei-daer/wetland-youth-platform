@@ -1,0 +1,36 @@
+{
+  "wetlandDistribution": {
+    "metaTitle": "Global wetland distribution — Youth Wetland Research Platform",
+    "back": "Back to home",
+    "eyebrow": "Research map",
+    "title": "Explore world wetlands from your screen",
+    "lead": "This overview summarizes major spatial patterns and regional contrasts. Figures draw on public literature and global compilations—for education and outreach, not operational decisions.",
+    "introTitle": "Big-picture patterns",
+    "introBody": "Wetlands are unevenly spread: cold, wet high latitudes; tropical coasts and large river basins; and inland floodplains each form distinct clusters. Climate, terrain, and hydrology together shape these macro-scale maps.",
+    "regionsTitle": "Major belts",
+    "regions": [
+      {
+        "title": "High latitudes & boreal peatlands",
+        "body": "Canada, Russia, and Nordic countries hold vast boreal peatlands and tundra wetlands—major soil carbon stores and breeding grounds for migratory birds."
+      },
+      {
+        "title": "Tropical & subtropical coasts",
+        "body": "Mangroves, seagrass beds, and deltas concentrate along Southeast Asia, South Asia, and tropical Americas, supporting exceptional biodiversity."
+      },
+      {
+        "title": "Inland rivers & floodplains",
+        "body": "Amazon, Congo, Mississippi, and similar basins form ribbon-like floodplain wetlands that buffer floods and sustain migratory species."
+      }
+    ],
+    "chinaTitle": "China in a global context",
+    "chinaBody": "China’s wetlands total roughly 56.35 million hectares—first in Asia. Asia holds about one-third of the world’s mapped wetland area, with North America next; exact shares vary by definition, year, and dataset—always check primary sources when citing.",
+    "tipsTitle": "Reading & research tips",
+    "tips": [
+      "Pair global maps with national protected-area networks and conventions (e.g., Ramsar) to connect “where” with “how we govern.”",
+      "Compare satellite products with field surveys—national totals and global grids may disagree at margins.",
+      "Track peatlands and coastal wetlands when linking to climate goals and nature-based solutions."
+    ],
+    "ctaHome": "Back to home",
+    "ctaContact": "Contact & newsletter"
+  }
+}

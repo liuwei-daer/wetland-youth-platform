@@ -1,0 +1,51 @@
+{
+  "footer": {
+    "about": "面向全球青年的开放协作网络，推动湿地科学、教育与行动。",
+    "contactTitle": "联系",
+    "email": "hello{at}wetland-youth.org",
+    "location": "中国 · 上海",
+    "newsletterLabel": "订阅",
+    "newsletterPlaceholder": "输入邮箱订阅",
+    "columns": [
+      {
+        "title": "资源",
+        "links": [
+          "开放数据集",
+          "方法指南",
+          "伦理与安全"
+        ]
+      },
+      {
+        "title": "项目",
+        "links": [
+          "在研课题",
+          "成果库",
+          "资助机会"
+        ]
+      },
+      {
+        "title": "社区",
+        "links": [
+          "论坛",
+          "志愿者",
+          "合作伙伴"
+        ]
+      }
+    ],
+    "social": [
+      {
+        "label": "微信",
+        "href": "#"
+      },
+      {
+        "label": "微博",
+        "href": "#"
+      },
+      {
+        "label": "GitHub",
+        "href": "#"
+      }
+    ],
+    "copyright": "全球青年湿地研究平台。保留所有权利。"
+  }
+}

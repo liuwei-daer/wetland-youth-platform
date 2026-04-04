@@ -1,0 +1,25 @@
+{
+  "why": {
+    "eyebrow": "Value",
+    "title": "Why wetlands matter so much",
+    "subtitle": "Climate regulators, biodiversity refuges, and water-security infrastructure",
+    "intro": "Wetlands store carbon, purify water, buffer floods, and support countless species and human communities.",
+    "cards": [
+      {
+        "icon": "Leaf",
+        "title": "Climate superheroes",
+        "text": "Mangroves and seagrass beds buffer storms and sea-level rise; peatlands cover only ~3% of land yet store about twice as much carbon as forests."
+      },
+      {
+        "icon": "Bird",
+        "title": "Biodiversity refuges",
+        "text": "From migratory birds to fish and endemic amphibians, wetlands are among Earth’s richest ecosystems and vital refuges for threatened species."
+      },
+      {
+        "icon": "Water",
+        "title": "Water-security backbone",
+        "text": "Most freshwater flows through or from wetlands. They filter, store, and regulate water—balancing floods and droughts."
+      }
+    ]
+  }
+}

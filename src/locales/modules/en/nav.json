@@ -1,0 +1,43 @@
+{
+  "nav": {
+    "acronym": "YWRN",
+    "brandShort": "Youth Wetland Research",
+    "brand": "Youth Wetland Research Platform",
+    "switchToZh": "中文",
+    "switchToEn": "English",
+    "langAria": "Switch language",
+    "menuOpen": "Open menu",
+    "menuClose": "Close menu",
+    "links": [
+      {
+        "id": "home",
+        "label": "Home"
+      },
+      {
+        "id": "about-wetlands",
+        "label": "About Wetlands"
+      },
+      {
+        "id": "research-projects",
+        "label": "Research Projects"
+      },
+      {
+        "id": "mentors",
+        "label": "Mentor Network"
+      },
+      {
+        "id": "news",
+        "label": "Latest News"
+      },
+      {
+        "id": "about-us",
+        "label": "About us",
+        "path": "/about"
+      },
+      {
+        "id": "contact",
+        "label": "Contact"
+      }
+    ]
+  }
+}

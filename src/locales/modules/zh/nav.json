@@ -1,0 +1,43 @@
+{
+  "nav": {
+    "acronym": "YWRN",
+    "brandShort": "青年湿地研究平台",
+    "brand": "青年湿地研究平台",
+    "switchToZh": "中文",
+    "switchToEn": "English",
+    "langAria": "切换语言",
+    "menuOpen": "打开菜单",
+    "menuClose": "关闭菜单",
+    "links": [
+      {
+        "id": "home",
+        "label": "首页"
+      },
+      {
+        "id": "about-wetlands",
+        "label": "认识湿地"
+      },
+      {
+        "id": "research-projects",
+        "label": "研究项目"
+      },
+      {
+        "id": "mentors",
+        "label": "导师网络"
+      },
+      {
+        "id": "news",
+        "label": "最新资讯"
+      },
+      {
+        "id": "about-us",
+        "label": "关于我们",
+        "path": "/about"
+      },
+      {
+        "id": "contact",
+        "label": "联系"
+      }
+    ]
+  }
+}

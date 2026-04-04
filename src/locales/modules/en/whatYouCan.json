@@ -1,0 +1,36 @@
+{
+  "whatYouCan": {
+    "eyebrow": "Participate",
+    "title": "What can you do?",
+    "subtitle": "Learn, map, and act—step by step.",
+    "items": [
+      {
+        "icon": "R",
+        "title": "Study & learn",
+        "text": "Understand wetland ecology, types, threats, and restoration pathways."
+      },
+      {
+        "icon": "M",
+        "title": "Global maps",
+        "text": "Explore wetlands at global, national, and Shanghai scales."
+      },
+      {
+        "icon": "A",
+        "title": "Take action",
+        "text": "Start with starter projects and grow into deeper research and collaboration."
+      }
+    ],
+    "pathTitle": "How to engage in wetland protection",
+    "steps": [
+      "Grasp why wetlands matter—climate, biodiversity, and water security.",
+      "Pick a track: starter, advanced, or expert collaboration.",
+      "Connect with mentors and learn methods from leading scientists.",
+      "Observe wetlands near you and build real questions from your place.",
+      "Share findings and stories to turn care into long-term action."
+    ],
+    "quote": "Wetland protection grows stronger with youth. The next journey begins in the real world.",
+    "quoteSub": "The platform combines outreach, research training, and mentors to help you turn concern into lasting action.",
+    "quoteCta": "Enter the project library",
+    "quoteSymbol": "❈"
+  }
+}

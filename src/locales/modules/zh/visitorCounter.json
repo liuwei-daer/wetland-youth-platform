@@ -1,0 +1,7 @@
+{
+  "visitorCounter": {
+    "label": "累计访问",
+    "loading": "…",
+    "aria": "网站累计访问次数"
+  }
+}
